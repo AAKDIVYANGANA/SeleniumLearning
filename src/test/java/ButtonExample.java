@@ -12,7 +12,7 @@ public class ButtonExample {
     WebDriver driver;
 
     @BeforeMethod
-    public void openLinkTestPage(){
+    public void openLinkTestPage(){ 
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.leafground.com/button.xhtml");
