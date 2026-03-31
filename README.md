@@ -52,7 +52,7 @@ SeleniumLearning/
 
 1. Clone the repository:
 ```
-   git clone <your-repo-url>
+   git clone https://github.com/AAKDIVYANGANA/SeleniumLearning.git
 ```
 
 2. Open in IntelliJ IDEA
@@ -72,4 +72,4 @@ SeleniumLearning/
 
 ## 👩‍💻 Author
 
-**AAKDIVYANGANA**
+**Ahinsa Divyangana**
